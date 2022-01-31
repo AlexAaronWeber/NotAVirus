@@ -1,0 +1,15 @@
+/Users/Alex/Projects/NotVirus/NotVirus/bin/Debug/net6.0/NotVirus
+/Users/Alex/Projects/NotVirus/NotVirus/bin/Debug/net6.0/NotVirus.deps.json
+/Users/Alex/Projects/NotVirus/NotVirus/bin/Debug/net6.0/NotVirus.runtimeconfig.json
+/Users/Alex/Projects/NotVirus/NotVirus/bin/Debug/net6.0/NotVirus.dll
+/Users/Alex/Projects/NotVirus/NotVirus/bin/Debug/net6.0/ref/NotVirus.dll
+/Users/Alex/Projects/NotVirus/NotVirus/bin/Debug/net6.0/NotVirus.pdb
+/Users/Alex/Projects/NotVirus/NotVirus/obj/Debug/net6.0/NotVirus.csproj.AssemblyReference.cache
+/Users/Alex/Projects/NotVirus/NotVirus/obj/Debug/net6.0/NotVirus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alex/Projects/NotVirus/NotVirus/obj/Debug/net6.0/NotVirus.AssemblyInfoInputs.cache
+/Users/Alex/Projects/NotVirus/NotVirus/obj/Debug/net6.0/NotVirus.AssemblyInfo.cs
+/Users/Alex/Projects/NotVirus/NotVirus/obj/Debug/net6.0/NotVirus.csproj.CoreCompileInputs.cache
+/Users/Alex/Projects/NotVirus/NotVirus/obj/Debug/net6.0/NotVirus.dll
+/Users/Alex/Projects/NotVirus/NotVirus/obj/Debug/net6.0/ref/NotVirus.dll
+/Users/Alex/Projects/NotVirus/NotVirus/obj/Debug/net6.0/NotVirus.pdb
+/Users/Alex/Projects/NotVirus/NotVirus/obj/Debug/net6.0/NotVirus.genruntimeconfig.cache
